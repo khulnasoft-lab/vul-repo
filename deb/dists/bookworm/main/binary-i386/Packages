@@ -1,0 +1,15 @@
+Package: vul
+Version: 0.45.1
+Architecture: i386
+Maintainer: Md Sulaiman <infosulaimanbd@gmail.com>
+Installed-Size: 178454
+Homepage: https://github.com/khulnasoft-lab
+Priority: optional
+Section: 
+Filename: pool/main/t/vul/vul_0.45.1_i386.deb
+Size: 49097086
+SHA256: a35db00d3e596960ff6aeae61fb0a35ac57a0cfe9ac80121806372a6df4b54c1
+SHA1: 9fdd47d68e7841c11bb65f687383734e82b31ca6
+MD5sum: 644cf3a95d41f401e9de9a175194ab19
+Description: A Fast Vulnerability Scanner for Containers
+

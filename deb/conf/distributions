@@ -1,109 +1,109 @@
-Origin: khulnasoft.github.io/vul-repo/deb
-Label: github.io/khulnasoft
+Origin: khulnasoft-lab.github.io/vul-repo/deb
+Label: github.io/khulnasoft-lab
 Codename: kinetic
 Architectures: i386 amd64 arm64
 Components: main
 Description: Vul repository
 SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
 
-Origin: khulnasoft.github.io/vul-repo/deb
-Label: github.io/khulnasoft
+Origin: khulnasoft-lab.github.io/vul-repo/deb
+Label: github.io/khulnasoft-lab
 Codename: jammy
 Architectures: i386 amd64 arm64
 Components: main
 Description: Vul repository
 SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
 
-Origin: khulnasoft.github.io/vul-repo/deb
-Label: github.io/khulnasoft
+Origin: khulnasoft-lab.github.io/vul-repo/deb
+Label: github.io/khulnasoft-lab
 Codename: impish
 Architectures: i386 amd64 arm64
 Components: main
 Description: Vul repository
 SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
 
-Origin: khulnasoft.github.io/vul-repo/deb
-Label: github.io/khulnasoft
+Origin: khulnasoft-lab.github.io/vul-repo/deb
+Label: github.io/khulnasoft-lab
 Codename: wheezy
 Architectures: i386 amd64 arm64
 Components: main
 Description: Vul repository
 SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
 
-Origin: khulnasoft.github.io/vul-repo/deb
-Label: github.io/khulnasoft
+Origin: khulnasoft-lab.github.io/vul-repo/deb
+Label: github.io/khulnasoft-lab
 Codename: jessie
 Architectures: i386 amd64 arm64
 Components: main
 Description: Vul repository
 SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
 
-Origin: khulnasoft.github.io/vul-repo/deb
-Label: github.io/khulnasoft
+Origin: khulnasoft-lab.github.io/vul-repo/deb
+Label: github.io/khulnasoft-lab
 Codename: stretch
 Architectures: i386 amd64 arm64
 Components: main
 Description: Vul repository
 SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
 
-Origin: khulnasoft.github.io/vul-repo/deb
-Label: github.io/khulnasoft
+Origin: khulnasoft-lab.github.io/vul-repo/deb
+Label: github.io/khulnasoft-lab
 Codename: buster
 Architectures: i386 amd64 arm64
 Components: main
 Description: Vul repository
 SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
 
-Origin: khulnasoft.github.io/vul-repo/deb
-Label: github.io/khulnasoft
+Origin: khulnasoft-lab.github.io/vul-repo/deb
+Label: github.io/khulnasoft-lab
 Codename: bullseye
 Architectures: i386 amd64 arm64
 Components: main
 Description: Vul repository
 SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
 
-Origin: khulnasoft.github.io/vul-repo/deb
-Label: github.io/khulnasoft
+Origin: khulnasoft-lab.github.io/vul-repo/deb
+Label: github.io/khulnasoft-lab
 Codename: bookworm
 Architectures: i386 amd64 arm64
 Components: main
 Description: Vul repository
 SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
 
-Origin: khulnasoft.github.io/vul-repo/deb
-Label: github.io/khulnasoft
+Origin: khulnasoft-lab.github.io/vul-repo/deb
+Label: github.io/khulnasoft-lab
 Codename: trusty
 Architectures: i386 amd64 arm64
 Components: main
 Description: Vul repository
 SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
 
-Origin: khulnasoft.github.io/vul-repo/deb
-Label: github.io/khulnasoft
+Origin: khulnasoft-lab.github.io/vul-repo/deb
+Label: github.io/khulnasoft-lab
 Codename: xenial
 Architectures: i386 amd64 arm64
 Components: main
 Description: Vul repository
 SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
 
-Origin: khulnasoft.github.io/vul-repo/deb
-Label: github.io/khulnasoft
+Origin: khulnasoft-lab.github.io/vul-repo/deb
+Label: github.io/khulnasoft-lab
 Codename: bionic
 Architectures: i386 amd64 arm64
 Components: main
 Description: Vul repository
 SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
 
-Origin: khulnasoft.github.io/vul-repo/deb
-Label: github.io/khulnasoft
+Origin: khulnasoft-lab.github.io/vul-repo/deb
+Label: github.io/khulnasoft-lab
 Codename: eoan
 Architectures: i386 amd64 arm64
 Components: main
 Description: Vul repository
 SignWith: 2E2D3567461632C84BB6CD6FE9D0A3616276FA6C
 
-Origin: khulnasoft.github.io/vul-repo/deb
-Label: github.io/khulnasoft
+Origin: khulnasoft-lab.github.io/vul-repo/deb
+Label: github.io/khulnasoft-lab
 Codename: focal
 Architectures: i386 amd64 arm64
 Components: main

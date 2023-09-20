@@ -1,9 +1,9 @@
 Package: vul
 Version: 0.44.0
 Architecture: amd64
-Maintainer: Teppei Fukuda <knqyf263@gmail.com>
+Maintainer: Md Sulaiman <infosulaimanbd@gmail.com>
 Installed-Size: 191326
-Homepage: https://github.com/khulnasoft
+Homepage: https://github.com/khulnasoft-lab
 Priority: optional
 Section: 
 Filename: pool/main/t/vul/vul_0.44.0_amd64.deb

@@ -1,5 +1,5 @@
 Component: main
-Origin: khulnasoft.github.io/vul-repo/deb
-Label: github.io/khulnasoft
+Origin: khulnasoft-lab.github.io/vul-repo/deb
+Label: github.io/khulnasoft-lab
 Architecture: amd64
 Description: Vul repository

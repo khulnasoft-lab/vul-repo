@@ -1,11 +1,11 @@
 Package: vul
 Version: 0.12.0
 Architecture: amd64
-Maintainer: Teppei Fukuda <knqyf263@gmail.com>
-Vendor: khulnasoft
+Maintainer: Md Sulaiman <infosulaimanbd@gmail.com>
+Vendor: khulnasoft-lab
 Installed-Size: 23708
 Depends: rpm
-Homepage: https://github.com/khulnasoft
+Homepage: https://github.com/khulnasoft-lab
 Priority: 
 Section: 
 Filename: pool/main/t/vul/vul_0.12.0_amd64.deb

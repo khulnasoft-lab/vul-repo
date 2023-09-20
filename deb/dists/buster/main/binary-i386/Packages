@@ -1,10 +1,10 @@
 Package: vul
 Version: 0.35.0
 Architecture: i386
-Maintainer: Teppei Fukuda <knqyf263@gmail.com>
-Vendor: khulnasoft
+Maintainer: Md Sulaiman <infosulaimanbd@gmail.com>
+Vendor: khulnasoft-lab
 Installed-Size: 163830
-Homepage: https://github.com/khulnasoft
+Homepage: https://github.com/khulnasoft-lab
 Priority: optional
 Section: 
 Filename: pool/main/t/vul/vul_0.35.0_i386.deb
